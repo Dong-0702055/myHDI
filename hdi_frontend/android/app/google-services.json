@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "421851628067",
+    "firebase_url": "https://hdi-app-f0ecf-default-rtdb.firebaseio.com",
+    "project_id": "hdi-app-f0ecf",
+    "storage_bucket": "hdi-app-f0ecf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421851628067:android:0268df41b30d9136276796",
+        "android_client_info": {
+          "package_name": "com.example.my_hdi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCHFC5YeWVOanPO_fHeljtTZ-1MBAAlzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
